@@ -25,3 +25,6 @@ The data used in this report includes patient waitlist information from January 
 
    ```bash
    git clone https://github.com/karandahal/hospital-data-powerbi.git
+   
+2. Open the Power BI .pbix file in Power BI Desktop.
+3. Ensure that all data sources are properly linked in the report.
